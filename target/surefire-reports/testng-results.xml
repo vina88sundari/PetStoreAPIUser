@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-28T12:56:18 CDT" name="PetStore" finished-at="2024-10-28T12:56:23 CDT" duration-ms="4830">
+    <groups>
+    </groups>
+    <test started-at="2024-10-28T12:56:18 CDT" name="PetUserTest" finished-at="2024-10-28T12:56:23 CDT" duration-ms="4830">
+      <class name="api.test.uservalidation">
+        <test-method is-config="true" signature="setuserdata()[pri:0, instance:api.test.uservalidation@223d2c72]" started-at="2024-10-28T12:56:18 CDT" name="setuserdata" finished-at="2024-10-28T12:56:19 CDT" duration-ms="908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setuserdata -->
+        <test-method signature="createusercheck()[pri:0, instance:api.test.uservalidation@223d2c72]" started-at="2024-10-28T12:56:19 CDT" name="createusercheck" finished-at="2024-10-28T12:56:21 CDT" duration-ms="2713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createusercheck -->
+        <test-method signature="deleteusercheck()[pri:0, instance:api.test.uservalidation@223d2c72]" started-at="2024-10-28T12:56:21 CDT" name="deleteusercheck" finished-at="2024-10-28T12:56:22 CDT" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteusercheck -->
+        <test-method signature="getusercheck()[pri:0, instance:api.test.uservalidation@223d2c72]" started-at="2024-10-28T12:56:22 CDT" name="getusercheck" finished-at="2024-10-28T12:56:22 CDT" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getusercheck -->
+        <test-method signature="updateusercheck()[pri:0, instance:api.test.uservalidation@223d2c72]" started-at="2024-10-28T12:56:22 CDT" name="updateusercheck" finished-at="2024-10-28T12:56:23 CDT" duration-ms="561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateusercheck -->
+      </class> <!-- api.test.uservalidation -->
+    </test> <!-- PetUserTest -->
+  </suite> <!-- PetStore -->
+</testng-results>
